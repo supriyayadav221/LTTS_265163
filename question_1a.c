@@ -20,8 +20,8 @@ int main()
 complex_t n1,n2,add_result,subtract_result,division_result, multiplication_result;
 n1.real=5;
 n1.imaginary=10;
-n2.real=5;
-n2.imaginary=10;
+n2.real=10;
+n2.imaginary=20;
 
 add_result=add(n1,n2);
 multiplication_result = multiply(n1,n2);
